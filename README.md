@@ -8,8 +8,8 @@ Data Science e Machine Learning são conteúdos interessantes e incrivelmente ú
 
 ### Primeiros passos
 - [ ] Machine Learning: Introdução a classificação com SKLearn
-  - [ ] Python para Data Science: Funções, Pacotes e Pandas básico **(em andamento)**
-    - [x] Python para Data Science: Introdução à linguagem e Numpy
+  - [ ] Python para Data Science: Funções, Pacotes e Pandas básico **(em andamento)**
+    - [x] Python para Data Science: Introdução à linguagem e Numpy
 - [x] Nerdologia Tech: Como ensinar uma máquina a aprender
 - [ ] Machine Learning: Introdução a algoritmos não supervisionados
 
