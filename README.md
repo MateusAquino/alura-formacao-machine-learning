@@ -7,8 +7,8 @@
 Data Science e Machine Learning são conteúdos interessantes e incrivelmente úteis. Resolvi fazer a formação da Alura e ir atualizando aqui...
 
 ### Primeiros passos
-- [ ] Machine Learning: Introdução a classificação com SKLearn
-  - [ ] Python para Data Science: Funções, Pacotes e Pandas básico **(em andamento)**
+- [ ] Machine Learning: Introdução a classificação com SKLearn **(em andamento)**
+  - [x] Python para Data Science: Funções, Pacotes e Pandas básico
     - [x] Python para Data Science: Introdução à linguagem e Numpy
 - [x] Nerdologia Tech: Como ensinar uma máquina a aprender
 - [ ] Machine Learning: Introdução a algoritmos não supervisionados
