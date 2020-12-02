@@ -7,23 +7,23 @@
 Data Science e Machine Learning são conteúdos interessantes e incrivelmente úteis. Resolvi fazer a formação da Alura e ir atualizando aqui...
 
 ### Primeiros passos
-- [x] Machine Learning: Introdução a classificação com SKLearn
-  - [x] Python para Data Science: Funções, Pacotes e Pandas básico
-    - [x] Python para Data Science: Introdução à linguagem e Numpy
-- [x] Nerdologia Tech: Como ensinar uma máquina a aprender
-- [ ] Machine Learning: Introdução a algoritmos não supervisionados **(em andamento)**
+- ✅ Machine Learning: Introdução a classificação com SKLearn
+  - ✅ Python para Data Science: Funções, Pacotes e Pandas básico
+    - ✅ Python para Data Science: Introdução à linguagem e Numpy
+- ✅ Nerdologia Tech: Como ensinar uma máquina a aprender
+- ✅ Machine Learning: Introdução a algoritmos não supervisionados
 
-### Classificação e Processamento de Linguagem Natural
-- [ ] Linguagem Natural parte 1: Introdução a NLP com análise de sentimento
-- [ ] Linguagem Natural parte 2: Continuando com a análise de sentimento
-- [ ] Chatbots e jornada do usuário
+### Classificação e Processamento de Linguagem Natural **(pulado)**
+- ⏩ Linguagem Natural parte 1: Introdução a NLP com análise de sentimento
+- ⏩ Linguagem Natural parte 2: Continuando com a análise de sentimento
+- ⏩ Chatbots e jornada do usuário
 
 ### Algoritmos de recomendação e o Deep learning
-- [ ] Deep Learning parte 1: Introdução com Keras
-  - [ ] Machine Learning: Classificação por trás dos panos
-- [ ] Machine Learning: Intro a sistemas de recomendação em Python
+- ⏺️ Deep Learning parte 1: Introdução com Keras
+  - ⏺️ Machine Learning: Classificação por trás dos panos **(em andamento)**
+- 🟦 Machine Learning: Intro a sistemas de recomendação em Python
 
 ### Validação e otimização
-- [ ] Machine Learning: Validação de modelos
-- [ ] Machine Learning parte 1: Otimização de modelos através de hiperparâmetros
-- [ ] Machine Learning parte 2: Otimização com exploração aleatória
+- 🟦 Machine Learning: Validação de modelos
+- 🟦 Machine Learning parte 1: Otimização de modelos através de hiperparâmetros
+- 🟦 Machine Learning parte 2: Otimização com exploração aleatória
